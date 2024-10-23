@@ -1,14 +1,3 @@
-// ==UserScript==
-// @name         Duolingo PRO
-// @namespace    http://tampermonkey.net/
-// @version      3.0BETA.02
-// @description  The fastest Duolingo XP farmer, working as of July 2024.
-// @author       anonymousHackerIV
-// @match        https://*.duolingo.com/*
-// @icon         https://github.com/anonymoushackerIV/Duolingo-Pro-BETA/blob/main/assets/duolingo-pro-logo-square-round.png.png?raw=true
-// @grant        GM_log
-// @downloadURL https://update.greasyfork.org/scripts/473310/Duolingo%20PRO.user.js
-// @updateURL https://update.greasyfork.org/scripts/473310/Duolingo%20PRO.meta.js
 // ==/UserScript==
 
 let storageLocal;
